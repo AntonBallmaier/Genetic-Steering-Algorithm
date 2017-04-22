@@ -1,0 +1,12 @@
+body {
+	background-color: #272822;
+	color: white;
+	font-family: Consolas;
+	font-size: 13px;
+	margin: 0;
+	padding: 0;
+}
+
+canvas{
+	background-color: black;
+}
